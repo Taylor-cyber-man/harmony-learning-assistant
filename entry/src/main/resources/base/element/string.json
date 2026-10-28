@@ -1,0 +1,160 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "三问高效学习机 - AI驱动的智能学习工具"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "基于三问高效学习法的认知加速工具"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "三问学习机"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "输入你的学习问题..."
+    },
+    {
+      "name": "search_hint",
+      "value": "例如：如何掌握HCIA-AI认证？"
+    },
+    {
+      "name": "empty_state_title",
+      "value": "输入你的第一个学习问题"
+    },
+    {
+      "name": "empty_state_subtitle",
+      "value": "开启三问高效学习之旅"
+    },
+    {
+      "name": "course_status_active",
+      "value": "活跃中"
+    },
+    {
+      "name": "course_status_completed",
+      "value": "已完成"
+    },
+    {
+      "name": "btn_start_learning",
+      "value": "开始三问学习"
+    },
+    {
+      "name": "btn_delete",
+      "value": "删除"
+    },
+    {
+      "name": "btn_archive",
+      "value": "归档"
+    },
+    {
+      "name": "question_one_title",
+      "value": "第一问：核心心智模型"
+    },
+    {
+      "name": "question_two_title",
+      "value": "第二问：学术技术分歧"
+    },
+    {
+      "name": "question_three_title",
+      "value": "第三问：深度理解测试"
+    },
+    {
+      "name": "confirm_understand",
+      "value": "我已理解"
+    },
+    {
+      "name": "knowledge_manual",
+      "value": "手动"
+    },
+    {
+      "name": "knowledge_ai",
+      "value": "AI"
+    },
+    {
+      "name": "add_knowledge",
+      "value": "添加知识点"
+    },
+    {
+      "name": "upload_file",
+      "value": "上传文件"
+    },
+    {
+      "name": "submit_answer",
+      "value": "提交答案"
+    },
+    {
+      "name": "evaluation_report",
+      "value": "学习报告"
+    },
+    {
+      "name": "score_concept",
+      "value": "概念理解"
+    },
+    {
+      "name": "score_critical",
+      "value": "批判思维"
+    },
+    {
+      "name": "score_practice",
+      "value": "实践迁移"
+    },
+    {
+      "name": "profile_title",
+      "value": "个人中心"
+    },
+    {
+      "name": "profile_stats_days",
+      "value": "累计学习"
+    },
+    {
+      "name": "profile_stats_courses",
+      "value": "完成课程"
+    },
+    {
+      "name": "profile_stats_score",
+      "value": "平均得分"
+    },
+    {
+      "name": "profile_archive_title",
+      "value": "课程归档"
+    },
+    {
+      "name": "profile_upload_title",
+      "value": "上传历史"
+    },
+    {
+      "name": "profile_settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "profile_api_key",
+      "value": "API Key 配置"
+    },
+    {
+      "name": "profile_dark_mode",
+      "value": "深色模式"
+    },
+    {
+      "name": "profile_about",
+      "value": "关于"
+    },
+    {
+      "name": "profile_about_desc",
+      "value": "三问学习机 v1.0.0"
+    },
+    {
+      "name": "profile_empty_archive",
+      "value": "暂无已归档课程"
+    },
+    {
+      "name": "profile_empty_upload",
+      "value": "暂无上传记录"
+    },
+    {
+      "name": "profile_restore_button",
+      "value": "恢复"
+    }
+  ]
+}

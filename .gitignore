@@ -1,0 +1,23 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# 工具与编辑器缓存
+.trae/
+.claude/
+.codeartsdoer/
+**/.preview
+
+# 构建产物
+*.hap
+*.app
+build_log*.txt
